@@ -1,3 +1,3 @@
 package test
 
-func Hmm() string { return "ok" }
+func Hmm() string { return "ok!" }
